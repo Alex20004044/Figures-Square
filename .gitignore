@@ -1,0 +1,7 @@
+﻿*.sln
+FiguresSquare/obj
+FiguresSquare/.vs
+FiguresSquare/bin
+FiguresSquareTests/bin
+FiguresSquareTests/obj
+*.csproj
