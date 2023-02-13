@@ -3,9 +3,9 @@ using Newtonsoft.Json;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
-using System.Text;
 using static FiguresSquare.DataConstants;
 using static FiguresSquareTests.TestConstants;
+
 namespace FiguresSquareTests
 {
     class FigureFactoryTests

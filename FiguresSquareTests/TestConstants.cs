@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace FiguresSquareTests
+﻿namespace FiguresSquareTests
 {
     public static class TestConstants
     {

@@ -1,7 +1,4 @@
-﻿using System.Collections;
-using System.Linq;
-
-namespace FiguresSquare
+﻿namespace FiguresSquare
 {
     public abstract class FigureBase : IFigure
     {
